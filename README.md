@@ -20,3 +20,5 @@ Step 1: Which classes do we need for a metro system?
 Step 2: Create a UML diagram
 ![alt text](metro_project.png)
 I'm not sure if I drew the diagram correctly but here it is...
+
+Step 3: Create the database in PostgreSQL! 
