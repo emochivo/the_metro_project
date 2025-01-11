@@ -18,4 +18,5 @@ Step 1: Which classes do we need for a metro system?
 - Ticket types: round trip (runs in 24 hours), one way, monthly
 
 Step 2: Create a UML diagram
+I'm not sure if I drew the diagram correctly but here it is...
 ![alt text](metro_project.png)
