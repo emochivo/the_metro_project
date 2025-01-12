@@ -2,7 +2,7 @@
 
 In progress.
 
-<u>Description:</u> 
+*Description:*
 
 A metro system includes many metro lines, and each line will have multiple stops. To ride the metro, a customer must buy a ticket, and one customer can only have one ticket. There are different types of customers, including "regular", "children", "elders", and "student", and these types will have different benefits on ticket prices. Children are people who are fewer than 6 years old, and elders are people who are 65+ years old. 
 
@@ -14,7 +14,7 @@ One line will have multiple trips on a day, and each trip in one line will have 
 Each line will run in two directions, and there can be two trips in one line, with the same time but running in opposite directions. For example, Line B can have two train trips running at 3:00pm if these trips run in the opposite directions (from M to P and from P to M). 
 
 
-<u>Step 1</u>: Which classes do we need for a metro system?
+#### Step 1: Which classes do we need for a metro system?
 - Metro lines
 - Metro trips
 - Metro stops
@@ -23,10 +23,10 @@ Each line will run in two directions, and there can be two trips in one line, wi
 - Customer types: students, elderly people, children, regular. 
 - Ticket types: round trip (runs in 24 hours), one way, monthly
 
-<u>Step 2</u>: Create a UML diagram
+#### Step 2: Create a UML diagram
 ![alt text](metro_project-UML.png)
 I'm not sure if I drew the diagram correctly but here it is...
 
-<u>Step 3</u>: Create a ER diagram
+#### Step 3: Create a ER diagram
 
-<u>Step 4</u>: Create the database in PostgreSQL! 
+#### Step 4: Create the database in PostgreSQL! 
