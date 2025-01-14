@@ -282,13 +282,13 @@
         <mxCell id="9-FHtcBpM_k-e-yOGFtP-2" value="Regular" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="9-FHtcBpM_k-e-yOGFtP-1">
           <mxGeometry y="40" width="150" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="9-FHtcBpM_k-e-yOGFtP-3" value="Children ( &amp;lt; 6 yo)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="9-FHtcBpM_k-e-yOGFtP-1">
+        <mxCell id="9-FHtcBpM_k-e-yOGFtP-3" value="Children" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="9-FHtcBpM_k-e-yOGFtP-1">
           <mxGeometry y="66" width="150" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9-FHtcBpM_k-e-yOGFtP-4" value="Student" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="9-FHtcBpM_k-e-yOGFtP-1">
           <mxGeometry y="92" width="150" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="9-FHtcBpM_k-e-yOGFtP-5" value="Elders (65+ years old)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="9-FHtcBpM_k-e-yOGFtP-1">
+        <mxCell id="9-FHtcBpM_k-e-yOGFtP-5" value="Elders" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="9-FHtcBpM_k-e-yOGFtP-1">
           <mxGeometry y="118" width="150" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9-FHtcBpM_k-e-yOGFtP-6" value="«enumeration»&lt;br&gt;&lt;b&gt;TicketType&lt;/b&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
