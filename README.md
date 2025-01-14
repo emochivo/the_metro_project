@@ -28,5 +28,6 @@ Each line will run in two directions, and there can be two trips in one line, wi
 I'm not sure if I drew the diagram correctly but here it is...
 
 ### Step 3: Create a ER diagram
+![alt text](metro_project-ER.png)
 
 ### Step 4: Create the database in PostgreSQL! 
