@@ -48,11 +48,12 @@ create table stop_lists (
 );
 
 create table metro_trips (
-    trip_id int primary key,
+    trip_id int,
     departure_time time,
     direction int,
     stop_id int,
     line_id int,
+    primary key (trip_id, stop_id),
     constraint fk_metro_stop
         foreign key (stop_id)
         references metro_stops(stop_id),
@@ -64,11 +65,12 @@ create table metro_trips (
 create table trip_information (
     ctrip_id int,
     trip_id int,
-    primary key (ctrip_id, trip_id),
+    stop_id int,
+    primary key (ctrip_id, trip_id, stop_id),
     constraint fk_customer_trip
         foreign key (ctrip_id)
         references customer_trips(ctrip_id),
     constraint fk_metro_trip
-        foreign key (trip_id)
-        references metro_trips(trip_id)
+        foreign key (trip_id, stop_id)
+        references metro_trips(trip_id, stop_id)
 );
