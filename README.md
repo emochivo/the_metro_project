@@ -15,7 +15,11 @@ One line will have multiple trips on a day, and each trip in one line will have 
 
 Each line will run in two directions, and there can be two trips in one line, with the same time but running in opposite directions. For example, Line B can have two train trips running at 3:00pm if these trips run in the opposite directions (from M to P and from P to M). 
 
-A metro line, of course, has multiple stops, and to make it easy, I'll assume the departure time of each stop is 5 minutes apart. Each trip (with same direction in the same line) will be 10 minutes apart.  
+A metro line, of course, has multiple stops, and to make it easy, I'll assume the departure time of each stop is 5 minutes apart. Each trip (with same direction in the same line) will be 10 minutes apart. 
+
+I'd drawn a metro map from my imagination, with the stop names inspired by flowers! Of course, these stop names or metro lines are all fake, if they somehow appear in some real cities somewhere on Earth (which is very unlikely), it is just a coincidence.
+
+![alt text](metro_project-metro-map.png)
 
 
 ### Step 1: Which classes do we need for a metro system?
