@@ -39,3 +39,4 @@ I'm not sure if I drew the diagram correctly but here it is...
 ![alt text](metro_project-ER.png)
 
 ### Step 4: Create the database in PostgreSQL! 
+First, I created the tables (which are the classes in the diagrams) using the SQL queries in create_tables.sql. Then, I made up the data and inserted it into the tables with the queries in insert_data_into_tables.sql. The current data are not big enough to evaluate the logic of my schema, but just use it for now. I'll add more data in the near future (or not...)
